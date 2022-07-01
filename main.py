@@ -1,5 +1,3 @@
-from re import T
-from more_itertools import last
 import game_core
 import pygame
 from pygame.locals import *
