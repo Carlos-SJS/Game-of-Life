@@ -11,4 +11,4 @@ In both versions:
  - Middle mouse button: drag mouse while clicking to move the viewport in the game world
 
 
-Based on (John Conway's Game of Life)
+Based on John Conway's Game of Life
