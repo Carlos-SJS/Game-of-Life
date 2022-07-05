@@ -9,3 +9,6 @@ In both versions:
  - Left click: Turn Cell on/alive
  - Right click: Errase/kill cell
  - Middle mouse button: drag mouse while clicking to move the viewport in the game world
+
+
+Based on (John Conway's Game of Life)
